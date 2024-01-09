@@ -1,4 +1,4 @@
-- olá, to tentando aprender programação hihi.
+- olá, Tentando aprender programação hihi.
 <!---
 DevMaxMus/DevMaxMus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
